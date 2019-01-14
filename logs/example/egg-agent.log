@@ -1,0 +1,11 @@
+2019-01-14 17:28:47,108 INFO 37250 [egg:logger] init all loggers with options: {"dir":"/Users/fred/Desktop/FredLee/eggjs_BK/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-01-14 17:28:47,182 INFO 37250 [egg:core] dump config after load, 5ms
+2019-01-14 17:28:47,226 INFO 37250 [egg-watcher] Start watching: ["/Users/fred/Desktop/FredLee/eggjs_BK/app","/Users/fred/Desktop/FredLee/eggjs_BK/config","/Users/fred/Desktop/FredLee/eggjs_BK/mocks","/Users/fred/Desktop/FredLee/eggjs_BK/mocks_proxy","/Users/fred/Desktop/FredLee/eggjs_BK/app.js"]
+2019-01-14 17:28:47,226 INFO 37250 [egg-watcher] Start watching: "/Users/fred/Desktop/FredLee/eggjs_BK/app"
+2019-01-14 17:28:47,226 INFO 37250 [egg-watcher] Start watching: "/Users/fred/Desktop/FredLee/eggjs_BK/config"
+2019-01-14 17:28:47,227 INFO 37250 [egg-watcher] Start watching: "/Users/fred/Desktop/FredLee/eggjs_BK/mocks"
+2019-01-14 17:28:47,227 INFO 37250 [egg-watcher] Start watching: "/Users/fred/Desktop/FredLee/eggjs_BK/mocks_proxy"
+2019-01-14 17:28:47,227 INFO 37250 [egg-watcher] Start watching: "/Users/fred/Desktop/FredLee/eggjs_BK/app.js"
+2019-01-14 17:28:47,227 INFO 37250 [egg-watcher:agent] watcher start success
+2019-01-14 17:28:47,235 INFO 37250 [egg:core] dump config after ready, 4ms
+2019-01-14 17:28:47,960 INFO 37250 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fred/Desktop/FredLee/eggjs_BK/app/public","stat":{"dev":16777221,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":3850897,"size":64,"blocks":0,"atimeMs":1547458127949.3782,"mtimeMs":1547458127949.3782,"ctimeMs":1547458127949.3782,"birthtimeMs":1547458127949.3782,"atime":"2019-01-14T09:28:47.949Z","mtime":"2019-01-14T09:28:47.949Z","ctime":"2019-01-14T09:28:47.949Z","birthtime":"2019-01-14T09:28:47.949Z"},"remove":false,"isDirectory":true,"isFile":false}

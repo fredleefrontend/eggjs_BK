@@ -1,0 +1,4 @@
+2019-01-14 17:28:47,997 INFO 37250 [Timer] /Users/fred/Desktop/FredLee/eggjs_BK/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23472006ms at 2019-01-15 00:00:00.003
+2019-01-14 17:28:47,998 INFO 37250 [Timer] /Users/fred/Desktop/FredLee/eggjs_BK/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23473003ms at 2019-01-15 00:00:01.001
+2019-01-14 17:28:47,890 INFO 37251 [egg-schedule]: register schedule /Users/fred/Desktop/FredLee/eggjs_BK/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-01-14 17:28:47,890 INFO 37251 [egg-schedule]: register schedule /Users/fred/Desktop/FredLee/eggjs_BK/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
