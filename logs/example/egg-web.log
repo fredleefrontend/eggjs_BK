@@ -12,3 +12,16 @@
 2019-01-14 17:28:47,966 INFO 37251 [egg:core] dump config after load, 6ms
 2019-01-14 17:28:47,985 INFO 37251 [egg-watcher:application] watcher start success
 2019-01-14 17:28:47,991 INFO 37251 [egg:core] dump config after ready, 4ms
+2019-01-14 18:02:04,058 WARN 37251 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-14 18:08:23,322 WARN 37251 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-01-14 18:08:23,322 WARN 37251 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-14 21:39:38,936 WARN 37251 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-14 23:30:38,850 WARN 37251 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-15 01:30:46,253 WARN 37251 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-01-15 01:30:46,255 WARN 37251 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-15 03:31:05,948 WARN 37251 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-15 05:31:26,527 WARN 37251 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-15 06:00:20,067 WARN 37251 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-15 08:15:05,516 WARN 37251 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-01-15 08:15:05,525 WARN 37251 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-01-15 09:35:03,291 WARN 37251 [ClusterClient:Watcher] follower closed, and try to init it again

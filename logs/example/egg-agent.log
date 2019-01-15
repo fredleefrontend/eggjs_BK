@@ -9,3 +9,83 @@
 2019-01-14 17:28:47,227 INFO 37250 [egg-watcher:agent] watcher start success
 2019-01-14 17:28:47,235 INFO 37250 [egg:core] dump config after ready, 4ms
 2019-01-14 17:28:47,960 INFO 37250 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/fred/Desktop/FredLee/eggjs_BK/app/public","stat":{"dev":16777221,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":3850897,"size":64,"blocks":0,"atimeMs":1547458127949.3782,"mtimeMs":1547458127949.3782,"ctimeMs":1547458127949.3782,"birthtimeMs":1547458127949.3782,"atime":"2019-01-14T09:28:47.949Z","mtime":"2019-01-14T09:28:47.949Z","ctime":"2019-01-14T09:28:47.949Z","birthtime":"2019-01-14T09:28:47.949Z"},"remove":false,"isDirectory":true,"isFile":false}
+2019-01-14 18:02:04,060 ERROR 37250 nodejs.ClusterClientNoResponseError: client no response in 175710ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/fred/Desktop/FredLee/eggjs_BK/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 37250
+hostname: FreddeMacBook-Pro.local
+
+2019-01-14 18:08:23,321 ERROR 37250 nodejs.ClusterClientNoResponseError: client no response in 379256ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/fred/Desktop/FredLee/eggjs_BK/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 37250
+hostname: FreddeMacBook-Pro.local
+
+2019-01-14 21:39:38,936 ERROR 37250 nodejs.ClusterClientNoResponseError: client no response in 12675606ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/fred/Desktop/FredLee/eggjs_BK/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 37250
+hostname: FreddeMacBook-Pro.local
+
+2019-01-14 23:30:38,851 ERROR 37250 nodejs.ClusterClientNoResponseError: client no response in 6639905ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/fred/Desktop/FredLee/eggjs_BK/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 37250
+hostname: FreddeMacBook-Pro.local
+
+2019-01-15 01:30:46,176 ERROR 37250 nodejs.ClusterClientNoResponseError: client no response in 7207149ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/fred/Desktop/FredLee/eggjs_BK/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 37250
+hostname: FreddeMacBook-Pro.local
+
+2019-01-15 03:31:05,950 ERROR 37250 nodejs.ClusterClientNoResponseError: client no response in 7219625ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/fred/Desktop/FredLee/eggjs_BK/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 37250
+hostname: FreddeMacBook-Pro.local
+
+2019-01-15 05:31:26,530 ERROR 37250 nodejs.ClusterClientNoResponseError: client no response in 7220554ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/fred/Desktop/FredLee/eggjs_BK/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 37250
+hostname: FreddeMacBook-Pro.local
+
+2019-01-15 06:00:20,068 ERROR 37250 nodejs.ClusterClientNoResponseError: client no response in 1733506ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/fred/Desktop/FredLee/eggjs_BK/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 37250
+hostname: FreddeMacBook-Pro.local
+
+2019-01-15 08:15:05,509 ERROR 37250 nodejs.ClusterClientNoResponseError: client no response in 8085281ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/fred/Desktop/FredLee/eggjs_BK/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 37250
+hostname: FreddeMacBook-Pro.local
+
+2019-01-15 09:35:03,291 ERROR 37250 nodejs.ClusterClientNoResponseError: client no response in 4797711ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/fred/Desktop/FredLee/eggjs_BK/node_modules/cluster-client/lib/leader.js:74:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 37250
+hostname: FreddeMacBook-Pro.local
+
